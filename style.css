@@ -1,0 +1,16 @@
+#Dig {
+   width: 300px;
+  background-color: #FF4500;
+  color: white;
+  font-size: 50px;
+  font-family: fantasy;
+  padding: 10px;
+  position: absolute;
+  border: 15px solid #191970;
+  top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -105px;
+    width: 200px;
+    height: 125px;
+}
